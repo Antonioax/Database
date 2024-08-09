@@ -39,6 +39,16 @@
       "date": "September 23, 2025",
       "time": "09:00",
       "organizer": "Masterchef"
+    },
+    {
+      "id": 127,
+      "category": "Cars",
+      "title": "Racinggg",
+      "description": "This is a racing event description",
+      "location": "Dubrovnik",
+      "date": "September 23, 2025",
+      "time": "09:00",
+      "organizer": "Rally"
     }
   ]
 }
