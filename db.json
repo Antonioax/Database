@@ -29,6 +29,16 @@
       "date": "September 12, 2024",
       "time": "08:00",
       "organizer": "UEFA"
+    },
+    {
+      "id": 126,
+      "category": "Food",
+      "title": "Eating Event",
+      "description": "This is a food event description",
+      "location": "Rijeka",
+      "date": "September 23, 2025",
+      "time": "09:00",
+      "organizer": "Masterchef"
     }
   ]
 }
