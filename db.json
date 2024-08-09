@@ -19,6 +19,16 @@
       "date": "August 09, 2024",
       "time": "15:00",
       "organizer": "Some other company"
+    },
+    {
+      "id": 125,
+      "category": "Sport",
+      "title": "Sport Event",
+      "description": "This is a sport event description",
+      "location": "Osijek",
+      "date": "September 12, 2024",
+      "time": "08:00",
+      "organizer": "UEFA"
     }
   ]
 }
