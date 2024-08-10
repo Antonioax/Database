@@ -49,6 +49,16 @@
       "date": "September 23, 2025",
       "time": "09:00",
       "organizer": "Rally"
+    },
+    {
+      "id": 128,
+      "category": "Sport",
+      "title": "Marathon",
+      "description": "50K",
+      "location": "London",
+      "date": "July 11, 2025",
+      "time": "12:00",
+      "organizer": "Some sport company"
     }
   ]
 }
