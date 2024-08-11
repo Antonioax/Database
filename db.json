@@ -59,6 +59,16 @@
       "date": "July 11, 2025",
       "time": "12:00",
       "organizer": "Some sport company"
+    },
+    {
+      "id": 129,
+      "category": "Test",
+      "title": "Test",
+      "description": "Test",
+      "location": "Test",
+      "date": "July 11, 2025",
+      "time": "12:00",
+      "organizer": "Test"
     }
   ]
 }
